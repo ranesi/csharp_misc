@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Project_12-2/obj/Debug/Project_12-2.csproj.FileListAbsolute.txt
+/Project_12-2/obj/Debug
+/Project_12-2/bin/Debug
